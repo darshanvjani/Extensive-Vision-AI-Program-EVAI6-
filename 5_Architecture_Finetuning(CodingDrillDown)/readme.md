@@ -1,5 +1,5 @@
 
-# MODEL'S ARCHITECTURE FINETUNING LIFECYCLE
+# ARCHITECTURE FINETUNING LIFECYCLE
 
 The Challange is to build a efficient architecture which adhires to the condition below:
 
