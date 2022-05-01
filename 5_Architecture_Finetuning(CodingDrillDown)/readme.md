@@ -168,3 +168,4 @@ TARGET:
 ![App Screenshot](https://github.com/darshanvjani/Extensive-Vision-AI-Program-EVAI6-/blob/main/5_Architecture_Finetuning(CodingDrillDown)/images/best_model_architecture.PNG?raw=true)
 
  - [FINAL MODEL](https://github.com/darshanvjani/Extensive-Vision-AI-Program-EVAI6-/blob/main/5_Architecture_Finetuning(CodingDrillDown)/Architecture_Finetuning(Best_Model).ipynb)
+
